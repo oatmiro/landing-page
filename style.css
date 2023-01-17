@@ -78,7 +78,7 @@ color: #E5E7EB;
 button {
     padding: 8px 16px;
     border-radius: 8px;
-    background-color: #3882f6;
+    background-color: #ff4b93;
     color: white;
     justify-content: center;
     max-width: 130px;
@@ -88,7 +88,7 @@ button {
 .below {
     display: flex;
     flex-direction: row;
-    border: 1px solid #3882f6;
+    border: 1px solid #ff4b93;
     max-width: 125px;
   }
 
@@ -154,7 +154,7 @@ img {
     display: flex;
     justify-content: space-between;
     align-content: center;
-    background: #3882f6;
+    background: #f577ae;
     width: 870px;
     padding-left: 120px;
     padding-right: 120px;
